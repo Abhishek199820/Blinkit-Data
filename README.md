@@ -46,7 +46,7 @@ The visualizations are interactive and designed for easy drill-down and cross-fi
 
 ## Screenshots
 
-> (You can add screenshots of your dashboard here later!)
+![Blinkit Dashboard](https://github.com/Abhishek199820/Blinkit-Data/blob/main/Blinkit-Dashboard.png)
 
 ## Author
 
