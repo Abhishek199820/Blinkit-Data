@@ -16,6 +16,20 @@ The `.pbix` file includes data cleaning, transformation, modeling, and visualiza
   - Trend Analysis
   - Customer Behavior Insights
 
+## Dashboard Explanation
+
+The dashboard provides a comprehensive view of Blinkit's sales performance.  
+It includes:
+
+- **Sales KPIs:** Total Sales, Total Orders, Average Order Value
+- **Sales Trends:** Line and Area Charts showing monthly trends
+- **Top Categories and Products:** Bar charts highlighting best-sellers
+- **Customer Segments:** Pie charts analyzing different customer groups
+- **Geographic Analysis:** Map visuals showing sales distribution (if applicable)
+- **Filters/Slicers:** Allowing dynamic filtering by category, month, and customer type
+
+The visualizations are interactive and designed for easy drill-down and cross-filtering to gain deep business insights.
+
 ## Key Features
 
 - Interactive Sales Dashboard
@@ -36,5 +50,5 @@ The `.pbix` file includes data cleaning, transformation, modeling, and visualiza
 
 ## Author
 
-- **Your Name** (Replace this with your name)
+- Abhishek Rajkumar Devanshi
 - [LinkedIn Profile] (Optional)
